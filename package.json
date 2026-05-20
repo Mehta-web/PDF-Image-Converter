@@ -1,0 +1,9 @@
+{
+  "name": "pdf-image-converter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A modern free PDF to image and image to PDF converter website.",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
